@@ -18,7 +18,7 @@ Three models of uncertainties propagation have been applied and compared each ot
 From data directly coming from a TLE measurements, the navigation problem has been solved with and without a priori information.
 
 ## UKF 
-
+Through a one week monitoring campaign from 2 stations of Exomars mission, all the data acquired have been processed to be used for an Unscented Kalman Filter whose estimation provided a very accurate measurement about the state of the satellite.
 
 ### Installation
 The program uses the basic MATLAB Toolbox and CSPICE (NASA) Toolkit for MATLAB.
