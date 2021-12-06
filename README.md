@@ -14,5 +14,11 @@ It has been designed the minimum time low thrust manoeuvre through a shooting me
 ## Uncertainties propagation
 Three models of uncertainties propagation have been applied and compared each others: LinCov, Unscented Transform and Montecarlo simulation (100) points.
 
+## Batch filters 
+From data directly coming from a TLE measurements, the navigation problem has been solved with and without a priori information.
+
+## UKF 
+
+
 ### Installation
 The program uses the basic MATLAB Toolbox and CSPICE (NASA) Toolkit for MATLAB.
